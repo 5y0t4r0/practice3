@@ -13,4 +13,8 @@ SIXU
 着火剤
 
 【場所】
+<<<<<<< HEAD
 KAWASAKI
+=======
+kawasaki
+>>>>>>> df9faf1e802ee746cf7fa67bb9ae763f95bc05c8
